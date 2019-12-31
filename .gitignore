@@ -1,0 +1,10 @@
+*.rtf
+*.bat
+*.txt
+*.iml
+*.baj
+# wenben
+*.txt
+*.word
+*.vscode
+*.idea
